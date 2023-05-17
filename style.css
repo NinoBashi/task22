@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+@font face{
+    Inter: url(Inter-Medium.ttf)
+    font-family: Inter;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.feri{
+    height: 319px;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+}
